@@ -14,6 +14,9 @@
     <li>Janina Saarinen</li>
     <li>Niina Heinonen</li>
 </ol>
+</p>
 <p>
+Projektimme käyttäjätarina: Astmapotilas Muhammed Kebab suorittaa lääkärinsä määräämän PEF-mittauksen ja siirtää mittaustulokset lääkärille internet-yhteydellä.
+</p>
 </body>
 </html>
